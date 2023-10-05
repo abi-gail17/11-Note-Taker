@@ -5,6 +5,8 @@
 
   This is an application called Note Taker that can be used to save and write notes. It uses ExpressJS in the back end and saves and retrieves notes in a JSON file.
 
+  [DEPLOYED](https://radiant-atoll-51323-a9035fe51ff3.herokuapp.com/)
+
   ## Table of Contents
    - [Description](#description)
    - [Installation](#installation)
@@ -26,6 +28,13 @@
   ## Usage
 
   Open the app, click the link to the notes page, enter a new note or view previous notes, click the write button and write in your not and then press save to save it.
+
+  ![Alt text](Assets/notetaker1.png)
+  ![Alt text](Assets/notetaker2.png)
+  ![Alt text](Assets/notetaker3.png)
+  ![Alt text](Assets/notetaker4.png)
+
+  See a demo of it [HERE](https://drive.google.com/file/d/1jPB9nvex0A8sTBMltWj4oLqqRBrlMvIR/view)
 
   ## Credits
 
