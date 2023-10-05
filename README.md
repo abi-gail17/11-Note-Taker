@@ -36,7 +36,7 @@
 
   ## Credits
 
-  Starter code provided by UofT Coding Bootcamp. Back end done by me.
+  Starter code provided by UofT Coding Bootcamp at https://github.com/coding-boot-camp/miniature-eureka
 
   ## Contributions
 
